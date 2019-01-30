@@ -1,5 +1,5 @@
 # assistive-rehab-storage
-Storage repository for Assistive and Rehabilitative Robotics.
+Storage repository for [Assistive and Rehabilitative Robotics](https://github.com/robotology/assistive-rehab).
 
 Use [Git LFS](https://git-lfs.github.com) to archive/download files.
 
